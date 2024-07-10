@@ -39,6 +39,7 @@ Run `make up` to start the development environment
 
 ```bash
 git clone https://github.com/bitlightlabs/bitlight-local-env-public/
+cd bitlights-local-env-pubclic
 make up
 ```
 
