@@ -108,6 +108,7 @@ sudo nano main.rs (or your own editor)
 ```
 
 ```
+cd ..
 make run
 ```
 
