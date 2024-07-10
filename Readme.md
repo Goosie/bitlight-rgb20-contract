@@ -101,6 +101,7 @@ cd bitlight-rgb20-contract
 edit main.rs, change the beneficiary to alice's address
 
 cd src
+
 sudo nano main.rs (or your own editor)
 ```rust
     let beneficiary_txid =
