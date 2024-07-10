@@ -97,9 +97,10 @@ compile and run it.
 git clone https://github.com/bitlightlabs/bitlight-rgb20-contract
 cd bitlight-rgb20-contract
 ```
-cd src
-edit main.rs, change the beneficiary to alice's address
 
+edit main.rs, change the beneficiary to alice's address
+cd src
+sudo nano main.rs (or your own editor)
 ```rust
     let beneficiary_txid =
         Txid::from_hex("d6afd1233f2c3a7228ae2f07d64b2091db0d66f2e8ef169cf01217617f51b8fb").unwrap();
