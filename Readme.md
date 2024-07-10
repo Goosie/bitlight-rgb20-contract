@@ -97,7 +97,7 @@ compile and run it.
 git clone https://github.com/bitlightlabs/bitlight-rgb20-contract
 cd bitlight-rgb20-contract
 ```
-
+cd src
 edit main.rs, change the beneficiary to alice's address
 
 ```rust
