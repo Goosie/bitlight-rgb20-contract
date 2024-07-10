@@ -68,7 +68,7 @@ Network             :  regtest
 Wallet Name         :  bob
 Root XPRV           :  tprv8ZgxMBicQKsPeEP6QyHbs7W2pfW5FJisXLcX93h2AnH5Kx8fuhKz7FYm4kw46SUgXJd3zUKwNoTqxtpLw7vmtLeFUGJb6XSeom45hQjeXxJ
 Fixed XPUB          :  [3abb3cbb/86'/1'/0']tpubDDeBXqUqyVcbe75SbHAPNXMojntFu5C8KTUEhnyQc74Bty6h8XxqmCavPBMd1fqQQAAYDdp6MAAcN4e2eJQFH3v4txc89s8wvHg98QSUrdL/<0;1;9;10>/*
-Bitcoin Address     :  bcrt1plphl407vyfpml2thhypzuqk232256njnaw4zhtmyrrku66pqn9usx4x59h
+RGB address     :  bcrt1plphl407vyfpml2thhypzuqk232256njnaw4zhtmyrrku66pqn9usx4x59h
 ```
 
 get satoshis faucet for alice and bob
