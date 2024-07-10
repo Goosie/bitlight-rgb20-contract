@@ -53,7 +53,11 @@ make alice-cli
 Network             :  regtest
 Wallet Name         :  alice
 Root XPRV           :  tprv8ZgxMBicQKsPeHzjP5LTL818LxwHbJNLZRa98Qdnn7M98fW15365cB1Sz9QZvYufASRKH6JEPhfpxVuFTKMHxDcEAVboqKuZdMmxzKVhMnW
-Fixed XPUB          :  [5183a8d8/86'/1'/0']tpubDDtdVYn7LWnWNUXADgoLGu48aLH4dZ17hYfRfV9rjB7QQK3BrphnrSV6pGAeyfyiAM7DmXPJgRzGoBdwWvRoFdJoMVpWfmM9FCk8ojVhbMS/<0;1;9;10>/*
+Fixed XPUB          :  [5183a8d8/86'/1'/0']tpubDDtdVYn7LWnWNUXADgoLGu48aLH4dZ17hYfRfV9rjB7QQK3BrphnrSV6pGAeyfyiAM7DmXPJgRzGoBdwWvRoFdJoMVpWfmM9FCk8ojVhbMS/
+<0;1;9;10>/*
+RGB Address         : tb1pr3rupmav8a7av7dqfyvynu2wk02lduggnh9ln4ndze9aqvuv9y3smxy992
+>>wallet get_new_address
+
 Bitcoin Address     :  bcrt1pn0s2pajhsw38fnpgcj79w3kr3c0r89y3xyekjt8qaudje70g4shs20nwfx
 ```
 
